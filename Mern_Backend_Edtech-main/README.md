@@ -15,10 +15,4 @@ Database: MongoDB (with Mongoose ODM)
 Authentication: JSON Web Tokens (JWT)
 Environment Management: dotenv
 
-Getting Started
-Prerequisites
-Ensure the following are installed on your system:
 
-Node.js (v16 or later recommended)
-npm or yarn
-MongoDB (local or cloud instance, such as MongoDB Atlas)
